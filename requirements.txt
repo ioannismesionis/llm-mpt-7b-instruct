@@ -1,0 +1,9 @@
+#cuda-python==12.1.0
+einops==0.6.1
+#flash-attn==1.0.5
+huggingface_hub==0.15.1
+langchain==0.0.200
+ninja==1.11.1
+torch==2.0.1
+transformers[torch]==4.25.1
+#triton==2.0.0.post1
